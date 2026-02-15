@@ -1,3 +1,10 @@
+/*
+Food Ration Distribution Management System
+Developed using C++ and OOPS concepts
+Author: Tejas Patil
+Year: 2026
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
